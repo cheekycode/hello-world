@@ -1,2 +1,3 @@
 # hello-world
-my first repo
+Learning how to git and how to code.
+yay.
